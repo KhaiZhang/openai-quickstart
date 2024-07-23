@@ -146,3 +146,7 @@ Django Peng - pjt73651@email.com
 
 项目链接: https://github.com/DjangoPeng/openai-quickstart
 
+Homework Finished:
+1. GPT-4V的使用
+2. ai translator的使用
+3. 实战sales chatbot
